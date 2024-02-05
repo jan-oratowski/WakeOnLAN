@@ -339,3 +339,4 @@ FakesAssemblies/
 >>>>>>> GitHub/master
 
 /.vs/*
+*.dtbcache.json
